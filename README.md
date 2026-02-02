@@ -30,17 +30,9 @@ A Junior Developer with knowledge in Java, JavaScript, and SQL. A track record o
 ---
 
 ### 📘 Featured Projects
+<a href="https://github.com/Thabang-Magaele/h2oautospa-website"> h2oAutoSpa </a>
 
-| H2O Auto Spa | My Portfolio |
-| :---: | :---: |
-| <a href="https://github.com/Thabang-Magaele/h2oautospa-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thabang-Magaele&repo=h2oautospa-website&theme=tokyonight&border_radius=10" width="100%" /></a> | <a href="https://github.com/Thabang-Magaele/portfolio-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thabang-Magaele&repo=portfolio-site&theme=tokyonight&border_radius=10" width="100%" /></a> |
-
-<br/>
-
-### 📊 Language Proficiency
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabang-Magaele&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+<a href="https://github.com/Thabang-Magaele/portfolio-site"> Thabang's Portfolio </a>
 
 <p align="center">
   <a href="https://github.com/Thabang-Magaele?tab=repositories">
