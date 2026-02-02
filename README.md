@@ -31,18 +31,15 @@ A Junior Developer with knowledge in Java, JavaScript, and SQL. A track record o
 
 ### 📘 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Thabang-Magaele/h2oautospa-website">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thabang-Magaele&repo=h2oautospa-website&theme=tokyonight&border_radius=10&show_owner=true" />
-  </a>
-  <a href="https://github.com/Thabang-Magaele/portfolio-site">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thabang-Magaele&repo=portfolio-site&theme=tokyonight&border_radius=10&show_owner=true" />
-  </a>
-</p>
+| H2O Auto Spa | My Portfolio |
+| :---: | :---: |
+| <a href="https://github.com/Thabang-Magaele/h2oautospa-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thabang-Magaele&repo=h2oautospa-website&theme=tokyonight&border_radius=10" width="100%" /></a> | <a href="https://github.com/Thabang-Magaele/portfolio-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thabang-Magaele&repo=portfolio-site&theme=tokyonight&border_radius=10" width="100%" /></a> |
 
-<br/><br/><br/><br/><br/><br/><br/> ### 📊 Language Proficiency
+<br/>
+
+### 📊 Language Proficiency
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabang-Magaele&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabang-Magaele&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
