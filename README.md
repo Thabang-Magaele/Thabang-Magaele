@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Thabang Magaele
 
-**Web Developer | Founder of CoreStack Technologies | ICT Student | Building toward Cloud & DevOps**
+**Web Developer | Founder of CoreStack Technologies | AWS Certified Cloud Practitioner | Building toward Cloud & DevOps**
 
-I'm a developer who learns by shipping real things for real users. Over the past year I've designed, built, and deployed **8+ live production websites** — full cycle, from first requirement to launch and post-launch support — through **CoreStack Technologies**, my own web development practice. I also build desktop applications in Java and I'm currently growing into cloud and DevOps engineering.
+I'm a developer who learns by shipping real things for real users. Over the past year I've designed, built, and deployed **8+ live production websites** — full cycle, from first requirement to launch and post-launch support — through **CoreStack Technologies**, my own web development practice. I also build **Android** and **desktop applications** in Java, and I'm growing into cloud and DevOps engineering.
 
 I'm open to a **developer role or internship** where I can contribute from day one and keep learning alongside an experienced team.
 
@@ -30,9 +30,9 @@ I'm open to a **developer role or internship** where I can contribute from day o
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Backend & Databases**
+**Backend, Mobile & Databases**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Cloud, Deployment & Version Control**
 
@@ -42,11 +42,12 @@ I'm open to a **developer role or internship** where I can contribute from day o
 
 ### 📘 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **[H2O Auto Spa](https://github.com/Thabang-Magaele/h2oautospa-website)** | Live production website for a car wash & detailing business in White River, Mpumalanga. | HTML · CSS · JavaScript |
-| **[FuelTrack](https://github.com/Thabang-Magaele)** | Desktop fuel-administration system with role-based authentication and SMS notifications. | Java · JavaFX · SQLite |
-| **[Developer Portfolio](https://github.com/Thabang-Magaele/portfolio-site)** | My personal portfolio site — skills, education, and live projects. | HTML · CSS · JavaScript |
+| # | Project | Description | Tech |
+|---|---|---|---|
+| 1 | **[Developer Portfolio](https://github.com/Thabang-Magaele/portfolio-site)** | My personal portfolio site — skills, education, and live projects. | HTML · CSS · JavaScript |
+| 2 | **[AMA Tiles Website](https://github.com/Thabang-Magaele/ama-tiles-website)** | Live production website built for a tiling business. | HTML · CSS · JavaScript |
+| 3 | **[BudgetBuddy](https://github.com/Thabang-Magaele/BudgetBuddy-android-app)** | Native Android app for personal budget tracking. | Java · Android |
+| 4 | **[FuelTrack](https://github.com/Thabang-Magaele/FuelTrack)** | Desktop fuel-administration system with role-based auth and SMS notifications. | Java · JavaFX · SQLite |
 
 <p align="center">
   <a href="https://github.com/Thabang-Magaele?tab=repositories">
@@ -56,18 +57,11 @@ I'm open to a **developer role or internship** where I can contribute from day o
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thabang-Magaele&show_icons=true&theme=tokyonight&hide_border=true" alt="Thabang's GitHub Stats" />
-</p>
-
----
-
 ### 🚀 Quick Bits
 
-- 🔭 **Currently working on:** Building and deploying client websites through CoreStack Technologies.
+- 🔭 **Currently working on:** Building and deploying client websites and applications through CoreStack Technologies.
 - 🎓 **Studying:** Diploma in ICT (Application Development) at the University of Mpumalanga.
-- 🌱 **Learning Path:** Deep diving into **Cloud** and working toward the **AWS Certified Cloud Practitioner** certification.
+- 🏆 **Certified:** AWS Certified Cloud Practitioner.
+- 🌱 **Learning Path:** Deepening my cloud skills and exploring DevOps practices.
 - ☁️ **Goal:** Growing into a Cloud & DevOps Engineer who builds scalable, cloud-native software.
 - 🇿🇦 **Location:** Pretoria, South Africa
